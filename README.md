@@ -7,6 +7,7 @@ A meta repo for all things Slack-related
 - eeue56
 - rtfeldman
 - splodingsocks
+- sporto
 
 
 ## General
