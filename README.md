@@ -30,4 +30,4 @@ On the Elmlang Slack, we try to keep discussions in the right place. Deciding wh
 - **#random** is intended for discussions about anything not Elm related. Generally, avoid anything NSFW related -- there are people of all ages on the Slack group. Please also avoid topics that tend to start flamewars, such as politics or religion. This is not the place to discuss such things.
 
 ## Misc
-- We have archivable history! Invite `archivebot` to the channel and it will be archived past the limit of Slack.
+- We have archivable history! Invite `archivebot` to the channel and it will be archived past the limit of Slack on https://elmlang.slackarchive.io.
