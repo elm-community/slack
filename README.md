@@ -29,5 +29,12 @@ On the Elmlang Slack, we try to keep discussions in the right place. Deciding wh
 - **#package-design** is intended for helping people to write better packages
 - **#random** is intended for discussions about anything not Elm related. Generally, avoid anything NSFW related -- there are people of all ages on the Slack group. Please also avoid topics that tend to start flamewars, such as politics or religion. This is not the place to discuss such things.
 
+
+## Jobs
+
+- Keep your job post to tl;dr format. Don't go on and on - keep things short and concise.
+- The first line should begin with `| company name | location + remote friendly | job title |`
+- Keep conversation in the #jobs channel focused on jobs.
+
 ## Misc
 - We have archivable history! Invite `archivebot` to the channel and it will be archived past the limit of Slack on https://elmlang.slackarchive.io.
