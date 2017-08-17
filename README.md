@@ -39,12 +39,12 @@ The creation of new channels has been limited to admins only. If you have a reas
 - Keep your job post to tl;dr format. Don't go on and on - keep things short and concise.
 - Keep conversation in the #jobs channel focused on jobs.
 
-### Posting a job
+### Posting a Job
 - The first line should begin with `| <company name> | <location + remote friendly> | <job title> |`
 - The admins usually pin job postings that are formatted that way
 - If the position gets filled, please notify an admin so that we can unpin the posting
 
-### Seeking work
+### Seeking Work
 - The first line should begin with `| seeking work | <location / willing to relocate> | <brief skills & description of what kind of work is being sought>`
 
 ## Misc
