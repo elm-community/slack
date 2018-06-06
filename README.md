@@ -39,6 +39,7 @@ The creation of new channels has been limited to admins only. If you have a reas
 
 - Keep your job post to tl;dr format. Don't go on and on - keep things short and concise.
 - Keep conversation in the #jobs channel focused on jobs.
+- Job posts should be for positions that involve using Elm.
 
 ### Posting a Job
 - The first line should begin with `| <company name> | <location + remote friendly> | <job title> |`
