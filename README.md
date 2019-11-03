@@ -48,6 +48,3 @@ The creation of new channels has been limited to admins only. If you have a reas
 
 ### Seeking Work
 - The first line should begin with `| seeking work | <location / willing to relocate> | <brief skills & description of what kind of work is being sought>`
-
-## Misc
-- We have archivable history! Invite `archivebot` to the channel and it will be archived past the limit of Slack on https://elmlang.slackarchive.io.
