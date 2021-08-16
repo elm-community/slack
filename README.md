@@ -28,7 +28,7 @@ On the Elmlang Slack, we try to keep discussions in the right place. Deciding wh
 - **#beginners** is intended for learning questions - questions about native/kernal code or more complex aspects of Elm should go to **#help** or **#general**.
 - **#elm-dev** is intended for discussion on how to implement complex things with Elm, or the internals of how Elm works. For example, lots of questions were asked there during the implementation of Ellie. 
 - **#package-design** is intended for helping people to write better packages
-- **#random** is intended for discussions about anything not Elm related. Generally, avoid anything NSFW related -- there are people of all ages on the Slack group. Please also avoid topics that tend to start flamewars, such as politics or religion. This is not the place to discuss such things.
+- **#misc** is intended for discussions about anything not Elm related. Generally, avoid anything NSFW related -- there are people of all ages on the Slack group. Please also avoid topics that tend to start flamewars, such as politics or religion. This is not the place to discuss such things.
 
 ### New Channels
 
