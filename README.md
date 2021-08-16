@@ -15,7 +15,7 @@ A meta repo for all things Slack-related
 
 - Avoid threads in main discussions channels This isn't a hard rule, and threads can be super helpful, but it's better to default to keeping chat in the channel when possible. It helps everyone see the conversations.
 - If the discussion is about a particular library or problem, a slack channel dedicated may be worthwhile, if the conversations are long.
-- No spam, solicitation, or advertising. Accounts that engage obviously in these behaviors will be deactivated. It is fine to post about a commercial project you worked on if Elm is the focus of the discussion, and admins will evaluate these situations in good faith.
+- No spam, solicitation, or advertising. Accounts that engage in these behaviors will be deactivated. Posting about a commercial project is permitted if Elm is the focus of the discussion, and admins will evaluate these situations in good faith.
 
 ## Channels
 
