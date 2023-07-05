@@ -10,7 +10,6 @@ A meta repo for all things Slack-related
 - ilias
 - janiczek
 - ianmackenzie
-- brianhicks
 - evancz
 
 
